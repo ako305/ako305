@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ako305
-- 👀 I’m interested in Software and System Testing in various Industries ,Selenium, CI and CD, Devops
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on working with Software Testing in various Industries and transfer of skills between industries
+- 👀 I’m interested in Data Engineering, Software and System Testing in various Industries
+- 🌱 I’m currently learning Big Data Engineering
+- 💞️ I’m looking to collaborate on working with Data Engineering, Software and System Testing in various Industries and transfer of skills between industries
 - 📫 How to reach me Linked In : Abhilash Kolhapur
 
 <!---
